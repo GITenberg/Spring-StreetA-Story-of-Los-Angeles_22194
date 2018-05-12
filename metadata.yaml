@@ -1,0 +1,29 @@
+_repo: Spring-StreetA-Story-of-Los-Angeles_22194
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richardson, James Hugh
+    birthdate: 1894
+    deathdate: 1963
+    gutenberg_agent_id: '25175'
+    url: http://www.gutenberg.org/2009/agents/25175
+description: ''
+gutenberg_issued: '2007-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22194'
+  lccn: '23000802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Los Angeles (Calif.) -- Fiction'
+- !lcc 'PS'
+title: 'Spring Street
+
+  A Story of Los Angeles'
+url: http://www.gutenberg.org/ebooks/22194
